@@ -1,0 +1,12 @@
+1. Dapatkan gambaran besar tentang apa data itu.
+2. Periksa properti data di setiap kolom (jenis, nilai yang hilang, dll)
+3. Tunjukkan jumlah data, mean/ratarata, median/nilai tengah, dan modus / jumlah yg sering muncul.
+4. Berapa min dan max untuk kolom dengan nilai numerik?
+5. Singkirkan nilai yang hilang:
+	Letakkan kolom yang nilainya hilang lebih dari 50% dari total data
+	Isi nilai yang hilang di agen dengan mean
+	Isi nilai yang hilang di negara, anak dengan nama yang paling umum
+
+6. Buat kategori berdasarkan lead time: Pendek, Sedang, dan Panjang
+7. Filter semua data yang memiliki reservation_status_date di> 2017
+8. Visualisasikan arrival_date_month untuk melihat di bulan apa pengunjung paling banyak datang
